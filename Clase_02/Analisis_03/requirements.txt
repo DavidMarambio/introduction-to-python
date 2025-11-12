@@ -1,0 +1,21 @@
+# Dependencias para el Sistema Profesional de Análisis de Calidad de Agua
+# Instalar con: pip install -r requirements.txt
+
+# Análisis de datos
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualización
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.11.0
+
+# Estadística
+scipy>=1.9.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Utilidades
+kaleido>=0.2.1  # Para exportar gráficos de Plotly
+
